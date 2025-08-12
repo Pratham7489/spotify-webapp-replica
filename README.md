@@ -8,10 +8,10 @@ This project replicates Spotify's clean and modern UI design, including its **si
 ## 📸 Screenshots
 
 ### Home Page Preview
-![Home Page](C:\Users\Muskan\OneDrive\Desktop\Sigma-Projects\Spotify Clone\screenshots\homepage.png)
+![Home Page](https://github.com/Pratham7489/spotify-webapp-replica/blob/main/screenshots/homepage.png))
 
 ### Music Player Preview
-![Music Player](C:\Users\Muskan\OneDrive\Desktop\Sigma-Projects\Spotify Clone\screenshots\music-player.png)
+![Music Player](https://github.com/Pratham7489/spotify-webapp-replica/blob/main/screenshots/music-player.png)
 
 
 ---
